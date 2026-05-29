@@ -2,7 +2,7 @@
 """
 render_cv.py — Converte um curriculo.md adaptado em HTML + PDF no padrão ATS.
 
-Estilo espelha CV-Andre-Rajo-Backend-Senior-{BR,ES}-ATS.pdf:
+Estilo ATS padrão:
 - Preto/branco (sem cores)
 - Helvetica/Arial, 10pt
 - Section headers MAIÚSCULOS com linha horizontal
