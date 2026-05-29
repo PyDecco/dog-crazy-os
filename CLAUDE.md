@@ -1,7 +1,7 @@
 # dog-crazy-os
 
-Sistema para vender sua mão de obra (PJ, freela pontual, projetos) e construir
-autoridade no LinkedIn e Instagram — usando Claude Code como co-piloto.
+Seu co-piloto de carreira no Claude Code. Candidaturas, prospecção, prep de entrevista
+e conteúdo — tudo em comandos. Para encarar o mercado de trabalho com mais leveza.
 
 ## Como o Claude deve operar aqui
 - SEMPRE leia `_contexto/` (perfil.md, icp.md, voz.md) antes de qualquer tarefa.
