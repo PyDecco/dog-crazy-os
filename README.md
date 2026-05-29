@@ -1,4 +1,4 @@
-# dog-crazy-os
+# dog-crazy-os 🚧 em construção
 
 > Seu co-piloto de carreira no Claude Code. Candidaturas, prospecção, prep de entrevista e conteúdo — tudo em comandos.
 
