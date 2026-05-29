@@ -1,0 +1,65 @@
+# Perfil — quem você é como produto
+
+> Este arquivo é o cérebro do sistema. TODOS os comandos leem dele.
+> É preenchido pelo `/install`. Edite aqui sempre que algo mudar.
+
+## Identidade
+- **Nome:** [Nome completo]
+- **Dados fiscais:** [CNPJ / CUIT / número fiscal local, se aplicável]
+- **Área de atuação:** [ex: Desenvolvimento Backend / Design UX / Marketing Digital]
+- **Senioridade:** [Júnior / Pleno / Sênior / Especialista — X anos de experiência]
+- **Site/portfólio:** [URL ou deixe em branco]
+- **LinkedIn:** [URL do perfil]
+- **GitHub / Behance / outro:** [URL ou deixe em branco]
+- **Localização (idioma principal):** [Cidade/Estado — modelo de trabalho: remoto/híbrido/presencial]
+- **Localização (idioma secundário, se aplicável):** [Cidade/País — para CVs em outro idioma]
+- **Contato principal:** [email] · [telefone/WhatsApp]
+- **Contato secundário (se aplicável):** [email ou telefone para mercado estrangeiro]
+
+## O que eu vendo
+- **Serviço principal:** [descrição em 1 linha do que você entrega]
+- **Serviços secundários:**
+  - [serviço 2]
+  - [serviço 3]
+- **Modelos aceitos:** [ ] PJ tempo indeterminado  [ ] Freela pontual  [ ] Projeto fechado  [ ] CLT
+
+## Preços
+- **Faixa PJ/mês (moeda local):** [ex: R$ 10.000 – R$ 12.000]
+- **Rate hora freela (moeda local):** [ex: R$ 200/h]
+- **Rate hora freela (USD, se aplicável):** [ex: USD 40/h]
+
+## Stack / competências
+- **Linguagens:** [lista]
+- **Frameworks / ferramentas principais:** [lista]
+- **Arquitetura / padrões:** [lista]
+- **Cloud / DevOps:** [lista]
+- **Bancos de dados:** [lista]
+- **Outras competências:** [lista]
+
+## Idiomas
+- **[Idioma 1]:** [Nativo / C2 / C1 / B2 / B1 / A2]
+- **[Idioma 2]:** [nível]
+- **[Idioma 3 se aplicável]:** [nível]
+
+## Resultados que já entreguei (provas)
+> Use números reais. Não exagere. Cada prova = 1 bullet.
+- **[Empresa/Projeto]:** [o que você fez] → [resultado mensurável]. Stack: [lista].
+- **[Empresa/Projeto]:** [o que você fez] → [resultado mensurável]. Stack: [lista].
+- **[Empresa/Projeto]:** [o que você fez] → [resultado mensurável]. Stack: [lista].
+
+## Histórico profissional (ordem cronológica reversa)
+### [Cargo] · [Empresa] — [mês/ano – mês/ano ou atual]
+- [responsabilidade ou entrega principal]
+- [responsabilidade ou entrega principal]
+
+### [Cargo] · [Empresa] — [mês/ano – mês/ano]
+- [responsabilidade ou entrega principal]
+
+## Formação
+- **[Grau] em [Área]** — [Instituição], [ano de conclusão ou em andamento]
+- **[Certificação]** — [Emissor], [ano]
+
+## Disponibilidade
+- **Início disponível:** [imediato / data]
+- **Horas/semana para freela:** [ex: até 20h/semana]
+- **Viajar:** [sim / não / ocasionalmente]

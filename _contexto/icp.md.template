@@ -1,0 +1,44 @@
+# ICP — Perfil de Cliente Ideal
+
+> Define para quem você quer trabalhar. Usado pelo /prospectar e /aplicar
+> para avaliar fit antes de gerar qualquer material.
+
+## Tipo de empresa
+- **Porte:** [ex: startup early-stage / scale-up Série A–B / empresa média / enterprise]
+- **Setor:** [ex: fintech, healthtech, edtech, e-commerce, SaaS B2B, agência digital]
+- **Maturidade técnica:** [ex: time de engenharia estruturado / stack moderna / cultura de produto]
+
+## Regiões / mercados
+- **Mercado principal:** [ex: Brasil]
+- **Mercados secundários:** [ex: LATAM hispanohablante, Portugal, Europa, EUA remoto]
+- **Idioma dos contratos:** [ex: PT ou ES]
+
+## Modelos de contratação aceitos
+- [ ] PJ / contractor (sem vínculo empregatício)
+- [ ] Freela pontual (projeto fechado ou hora)
+- [ ] CLT com benefícios acima de mercado
+- **Dealbreakers:** [ex: CLT sem benefícios, estágio, sem contrato formal]
+
+## Dores que eu resolvo
+> Liste os problemas que o cliente-alvo enfrenta e que você sabe resolver.
+- [ex: time backend sobrecarregado, precisando de reforço sênior pontual]
+- [ex: legado que trava a operação e ninguém quer tocar]
+- [ex: produto sem escalabilidade, crescimento parou]
+
+## Decisores
+> Quem toma a decisão de contratar você? Adapte a abordagem para cada um.
+- **Título 1:** [ex: CTO] — [o que importa pra ele: velocidade de entrega, qualidade técnica]
+- **Título 2:** [ex: Head of Engineering] — [o que importa pra ela: custo, autonomia do dev]
+- **Título 3:** [ex: Founder técnico] — [o que importa pra ele: ROI direto, sem babysitting]
+
+## Red flags (não avançar)
+- [ex: empresa sem produto claro, só "ideia"]
+- [ex: processo com 7+ etapas para freela]
+- [ex: pedido de trabalho gratuito como "teste"]
+- [ex: stack 100% fora da minha expertise sem plano de aprendizado]
+
+## Score de fit (usado pelo /aplicar)
+O sistema avalia cada vaga nesta escala:
+- **Alto fit:** atende ≥3 critérios acima sem red flag → gerar candidatura completa
+- **Fit médio:** atende 1–2 critérios → alertar e perguntar se quer prosseguir
+- **Baixo fit / red flag:** → bloquear e explicar o motivo

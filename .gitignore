@@ -1,0 +1,31 @@
+# Dados pessoais — preenchidos pelo /install, nunca commitar
+_contexto/perfil.md
+_contexto/icp.md
+_contexto/voz.md
+_contexto/curriculo-base.md
+_contexto/curriculo-base-*.md
+_contexto/curriculo-base*.pdf
+_contexto/curriculo-base*.html
+
+# Outputs de candidaturas
+vagas/_index.md
+vagas/candidaturas/*/
+vagas/curriculos-gerados/*/
+
+# Outputs de prospecção
+prospeccao/leads/*.csv
+prospeccao/enviados/
+prospeccao/propostas/
+
+# Conteúdo publicado
+conteudo/linkedin/
+conteudo/instagram/
+conteudo/ideias/
+
+# Conversas
+conversas/analises/
+conversas/prints/
+
+# Sistema
+*.DS_Store
+node_modules/
