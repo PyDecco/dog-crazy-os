@@ -1,4 +1,4 @@
-# dog-crazy-os
+# mad-dog-os
 
 Seu co-piloto de carreira no Claude Code. Candidaturas, prospecção, prep de entrevista
 e conteúdo — tudo em comandos. Para encarar o mercado de trabalho com mais leveza.
